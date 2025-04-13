@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Wanjohi  
+# 👋 Hi, I'm Ian Wanjohi  
 💻 Junior Developer | BIT Student at Meru University  
 🚀 Web & Mobile Dev | Spring Boot | React | AI |Next js 
 ⚡ Passionate about Tech, PC Maintenance  
